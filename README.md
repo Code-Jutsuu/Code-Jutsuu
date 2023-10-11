@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Dumb4Codes/Dumb4Codes/blob/main/wallpaperflare.com_wallpaper%20(1).jpg)
 <h1 align="center">Sup 👋, I'm Himanshu Verma</h1>
-<h3 align="center">A passionate code explorer, DSA student and junior developer in training from Bharat</h3>
+<h2 align="center">A passionate code explorer, DSA student and junior developer in training from Bharat</h2>
 <img align="right" alt="Coding" Height="300" Width="500" src="https://img.wattpad.com/15b7c31dcc23713ca02151578036889aa7c8b555/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f644e6d4378397837713547584d773d3d2d3139322e313638323834323333336437633764313337333438373834333133362e676966">
 
 -🌱 I’m currently learning **DSA(just started) and React**
@@ -21,7 +21,7 @@
 <a href="https://twitter.com/him_anshu_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="him_anshu_v" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-verma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/HimanshuV309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HimanshuV309" height="30" width="40" /></a>
-<a href="https://www.discord.com/deadcrypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HimanshuV309" height="30" width="40" /></a>
+<a href="https://www.discord.com/ganjaa_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ganjaa_69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
