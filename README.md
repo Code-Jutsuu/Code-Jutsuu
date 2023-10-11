@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **himanshuv309@gmail.com**
 
-- ⚡ Fun fact **"Started civil engineering thinking it would be an 'easy pass' for exams. Ended up dreaming of PSC jobs, but my brain experienced a '404 error' in the process. Now I'm in the quest of rebooting my career and chasing dreams with a sprinkle of coding! 🚀😄 #DreamsAndCode 💻😄 #LifeOfADreamer!"**
+- ⚡ Fun fact: **Started civil engineering thinking it would be an 'easy pass' for exams. Ended up dreaming of PSC jobs, but my brain experienced a '404 error' in the process. Now I'm in the quest of rebooting my career and chasing dreams with a sprinkle of coding! 🚀😄 #DreamsAndCode 💻😄 #LifeOfADreamer!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-jutsuu" alt="code-jutsuu" /></a> </p>
 
