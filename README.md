@@ -3,7 +3,7 @@
 <h2 align="center">A passionate code explorer, DSA student and junior developer in training from Bharat</h2>
 <img align="right" alt="Coding" Height="300" Width="500" src="https://img.wattpad.com/15b7c31dcc23713ca02151578036889aa7c8b555/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f644e6d4378397837713547584d773d3d2d3139322e313638323834323333336437633764313337333438373834333133362e676966">
 
--🌱 I’m currently learning **DSA(just started) and React**
+- 🌱 I’m currently learning **DSA(just started) and React**
 
 - 💬 Ask me about **Java, JavaScript**
 
