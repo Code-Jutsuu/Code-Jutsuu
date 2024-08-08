@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact : **Started civil engineering thinking it would be an 'easy pass' for exams. Ended up dreaming of PSC jobs, but my brain experienced a '404 error' in the process. Now I'm in the quest of rebooting my career and chasing dreams with a sprinkle of coding! 🚀😄 #DreamsAndCode 💻😄 #LifeOfADreamer!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-jutsuu" alt="code-jutsuu" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/him_anshu_v" target="blank"><img src="https://img.shields.io/twitter/follow/him_anshu_v?logo=twitter&style=for-the-badge" alt="him_anshu_v" /></a> </p>
 
